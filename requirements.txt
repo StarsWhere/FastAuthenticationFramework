@@ -1,0 +1,8 @@
+PyQt5==5.15.9
+requests==2.31.0
+python-dotenv==1.0.0
+loguru==0.7.0
+pyyaml==6.0.1
+black==23.9.1
+pytest==7.4.2
+pytest-qt==4.2.0
